@@ -1,0 +1,18 @@
+############################################################
+SCOUT WORD-FORMATTING & TYPOGRAPHY LAYER
+(MS Word Copy-Paste Compliant)
+Version: 1.0
+Immutable Core
+############################################################
+
+All produced book text must use strict Markdown typography standards to ensure seamless formatting translation when copied and pasted directly into MS Word, Google Docs, or Vellum:
+
+# [Book Title / Part Title] ──> Standard H1 (MS Word Title Style)
+## [Chapter Title] ──> Standard H2 (MS Word Heading 1)
+### [Subchapter Title] ──> Standard H3 (MS Word Heading 2)
+
+**[Text]** ──> Strict Bold (For key realizations, contrasting clashes, and structural emphasis)
+*[Text]* ──> Strict Italics (For Scout's internal thoughts, parenthetical whispers, and conversational footnote text)
+
+Whitespace Rules:
+Double line breaks between paragraphs to prevent screen-merging on Kindle and ensure elegant block-paragraph pacing when pasted.
