@@ -1268,3 +1268,541 @@ Nothing may violate this relationship.
 ############################################################
 END OF SCOUT BRAND READER DNA
 ############################################################
+############################################################
+BOOK SEMANTIC PROFILER
+Version: 1.0
+Classification: First Inference Layer
+Status: Core Semantic Extraction
+############################################################
+
+PURPOSE
+
+This layer is the first semantic reasoning layer after the Semantic Intelligence System.
+
+Its responsibility is NOT to generate publishing assets.
+
+Its responsibility is to identify the intellectual identity of the manuscript before any downstream semantic systems begin working.
+
+This layer extracts four permanent semantic outputs that become foundational inputs for every later system.
+
+Nothing downstream should infer these again.
+
+############################################################
+
+INPUTS
+
+• Book Title
+• Subtitle
+• Core Promise
+• Introduction
+• Central Question
+• Central Idea
+
+Inherited Context
+
+• Brand DNA
+• Semantic DNA
+• Semantic Roots
+• Brand Reader DNA
+
+############################################################
+
+PROCESS
+
+The system ignores wording.
+
+The system identifies semantic intention.
+
+It extracts meaning before language.
+
+It reasons from concepts rather than vocabulary.
+
+Every inference must remain compatible with the Brand DNA.
+
+############################################################
+
+OUTPUT 01
+
+BOOK READER PROFILE
+
+Determine the reader this specific book is naturally written for.
+
+Extract:
+
+• Primary Reader
+• Secondary Reader
+• Reader Awareness Level
+• Reader Curiosity Level
+• Reader Knowledge Level
+• Reader Emotional State
+• Reader Motivation
+• Reader Expected Transformation
+
+This profile belongs to the book.
+
+Not the brand.
+
+############################################################
+
+OUTPUT 02
+
+BOOK SEMANTIC DOMAIN
+
+Determine the dominant semantic territory occupied by the manuscript.
+
+Extract:
+
+• Primary Domain
+• Secondary Domain
+• Supporting Domains
+
+Examples
+
+Psychology
+
+Biology
+
+Neuroscience
+
+Behavior
+
+History
+
+Philosophy
+
+Decision Making
+
+Identity
+
+Memory
+
+Human Relationships
+
+Everyday Observation
+
+Productivity
+
+Learning
+
+Self Awareness
+
+Reality
+
+The output represents meaning.
+
+Never Amazon categories.
+
+############################################################
+
+OUTPUT 03
+
+TARGET AUTHORS LAYER
+
+Determine which intellectual voices naturally occupy the same conceptual territory.
+
+The objective is semantic proximity.
+
+Never stylistic imitation.
+
+Extract
+
+• Closest Intellectual Authors
+• Adjacent Authors
+• Neighboring Disciplines
+
+These are used later for semantic positioning only.
+
+Never copied.
+
+############################################################
+
+OUTPUT 04
+
+AMAZON CATEGORY FOUNDATION
+
+Using the semantic domain only,
+
+determine the most natural Amazon publishing categories.
+
+Extract
+
+• Primary Category
+• Secondary Category
+• Supporting Categories
+
+Categories must emerge from meaning.
+
+Never from keyword opportunity.
+
+############################################################
+
+OUTPUT PACKAGE
+
+The layer always returns exactly four outputs:
+
+1. Book Reader Profile
+
+2. Book Semantic Domain
+
+3. Target Authors Layer
+
+4. Amazon Category Foundation
+
+These four outputs become immutable inputs for every downstream semantic generation system.
+
+############################################################
+
+IMMUTABLE LAW
+
+This layer does not optimize.
+
+This layer identifies.
+
+It never creates identity.
+
+It discovers the identity already present inside the manuscript.
+
+############################################################
+############################################################
+BOOK METADATA OPERATING ENGINE (BMOE)
+Version: 1.0
+Classification: Metadata Generation Layer
+Status: Core Publishing Engine
+############################################################
+
+PURPOSE
+
+This engine transforms a completed semantic identity into every publishing asset required before launch.
+
+It never discovers the identity of the book.
+
+It receives the identity already extracted by previous layers.
+
+Its responsibility is execution.
+
+Every output must remain synchronized with the Brand DNA, Semantic DNA, Semantic Roots, Reader Profile, Semantic Domain, Target Authors Layer and Amazon Category Foundation.
+
+Nothing inside this engine may generate disconnected outputs.
+
+Every asset belongs to one semantic organism.
+
+############################################################
+
+ENGINE INPUTS
+
+Brand DNA
+
+Semantic DNA
+
+Semantic Roots
+
+Brand Reader Profile
+
+Book Reader Profile
+
+Book Semantic Domain
+
+Target Authors Layer
+
+Amazon Category Foundation
+
+Book Title
+
+Subtitle
+
+Core Promise
+
+Central Question
+
+Central Idea
+
+Introduction
+
+############################################################
+
+GLOBAL OPERATING LAW
+
+Every generated asset must satisfy six conditions simultaneously:
+
+• Brand Consistency
+• Semantic Consistency
+• Reader Consistency
+• Discovery Consistency
+• Amazon Compatibility
+• Intellectual Integrity
+
+No asset may optimize one dimension while damaging another.
+
+############################################################
+
+MODULE 01
+
+BOOK DESCRIPTION ENGINE
+
+Produces:
+
+• Main Description
+• Short Description
+• Marketing Description
+
+Objectives
+
+Capture curiosity.
+
+Explain value.
+
+Create emotional connection.
+
+Preserve Scout's conversational identity.
+
+Never become promotional.
+
+############################################################
+
+MODULE 02
+
+KEYWORD ENGINE
+
+Produces
+
+• Primary Keywords
+
+• Secondary Keywords
+
+• Long-tail Keywords
+
+• Backend Keywords
+
+Objectives
+
+Generate keywords from meaning.
+
+Never force search terms.
+
+Never sacrifice semantic integrity.
+
+############################################################
+
+MODULE 03
+
+EDITORIAL REVIEW ENGINE
+
+Produces
+
+• Editorial Review
+
+Objectives
+
+Describe intellectual value.
+
+Position the book naturally.
+
+Sound human.
+
+Never sound like advertising.
+
+############################################################
+
+MODULE 04
+
+ABOUT AUTHOR ENGINE
+
+Produces
+
+• About the Author
+
+Objectives
+
+Strengthen trust.
+
+Strengthen relationship.
+
+Reflect Brand DNA.
+
+Remain timeless across the catalog.
+
+############################################################
+
+MODULE 05
+
+FROM AUTHOR ENGINE
+
+Produces
+
+• From the Author
+
+Objectives
+
+Create emotional proximity.
+
+Prepare the reader psychologically.
+
+Establish conversation before reading.
+
+############################################################
+
+MODULE 06
+
+A+ CONTENT ENGINE
+
+Produces
+
+• A+ Headlines
+
+• A+ Sections
+
+• A+ Captions
+
+Objectives
+
+Extend the semantic universe.
+
+Increase understanding.
+
+Increase emotional attachment.
+
+Never repeat the description.
+
+############################################################
+
+MODULE 07
+
+ALT ENGINE
+
+Produces
+
+• ALT Text
+
+Objectives
+
+Describe images semantically.
+
+Support accessibility.
+
+Strengthen semantic relevance.
+
+############################################################
+
+MODULE 08
+
+IMAGE KEYWORD ENGINE
+
+Produces
+
+• Image Keywords
+
+Objectives
+
+Describe every illustration using semantic language inherited from the Semantic Roots.
+
+############################################################
+
+MODULE 09
+
+BACK COVER ENGINE
+
+Produces
+
+• Back Cover Copy
+
+Objectives
+
+Generate maximum curiosity.
+
+Never summarize.
+
+Never spoil.
+
+Leave one unanswered question.
+
+############################################################
+
+MODULE 10
+
+INSIDE BOOK ENGINE
+
+Produces
+
+• Opening Pages
+
+• Copyright Page Elements
+
+• About This Book
+
+• Reader Orientation
+
+Objectives
+
+Prepare the reader for Scout's experience.
+
+Synchronize expectations.
+
+Reduce cognitive friction.
+
+############################################################
+
+QUALITY FILTER
+
+Before releasing any asset the engine validates:
+
+Brand DNA ✔
+
+Semantic DNA ✔
+
+Semantic Roots ✔
+
+Reader Alignment ✔
+
+Semantic Domain ✔
+
+Authorial Voice ✔
+
+Amazon Compatibility ✔
+
+Vocabulary Consistency ✔
+
+Discovery Compatibility ✔
+
+Curiosity Level ✔
+
+Relationship Strength ✔
+
+############################################################
+
+OUTPUT PACKAGE
+
+The engine always returns the following assets:
+
+1. Book Description
+
+2. Keywords
+
+3. Editorial Review
+
+4. About Author
+
+5. From Author
+
+6. A+ Content
+
+7. ALT Text
+
+8. Image Keywords
+
+9. Inside Book Assets
+
+10. Back Cover Copy
+
+############################################################
+
+IMMUTABLE LAW
+
+This engine never invents identity.
+
+It only expresses the identity extracted by previous layers.
+
+Every generated asset must feel like it came from one mind,
+one semantic system,
+one living brand.
+
+############################################################
